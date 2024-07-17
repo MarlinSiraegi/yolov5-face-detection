@@ -2,14 +2,14 @@ https://www.kaggle.com/datasets/iamtushara/face-detection-dataset/code
 캐글에서 데이터셋을 다운로드 받고
 루트 디렉토리에 추가
 데이터셋의 디렉토리 구조는
-input/
-└── face-data/
-    ├── images/
-    │   ├── train/
-    │   └── val/
-    └── labels/
-        ├── train/
-        └── val/
+input/  
+└── face-data/  
+    ├── images/  
+    │   ├── train/  
+    │   └── val/  
+    └── labels/  
+        ├── train/  
+        └── val/  
 
 input 폴더가 루트 디렉토리(yolov5-test 폴더)에 있으면 됨
 
